@@ -1,0 +1,2 @@
+Voce fez todo o exercicio conforme proposto, sua unica falha foi na validação de limite de datas, poís estou conseguindo cadastrar agendamentos em datas anteriores a atual.
+Nivel - 5 nota 6,8
